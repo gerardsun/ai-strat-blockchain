@@ -1,6 +1,6 @@
 # AI-Strategist-Blockchain: DeFi Investment Strategy Generator
 
-An open-source tool combining prompt engineering, GPT-3.5, and ML (scikit-learn decision trees) to generate blockchain DeFi investment strategies. In beta tests, it outperformed human benchmarks 8/10 times on metrics like yield potential, risk, and protocol adoption.
+An open-source tool combining prompt engineering, GPT-3.5, and ML (scikit-learn decision trees) to generate blockchain DeFi investment strategies. In beta and live tests, it outperformed human benchmarks 8/10 times on metrics like yield potential, risk, and protocol adoption.
 
 ## Features
 - **Prompt Engineering**: System prompts for concise, actionable 3-step DeFi strategies.
